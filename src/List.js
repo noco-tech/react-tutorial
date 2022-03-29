@@ -1,9 +1,6 @@
-import React from "react"
 
-export class List extends React.Component {
+export const List = ({title}) => {
     
-    render() {
-      const { title } = this.props;
         return (
             <div>
     
@@ -13,6 +10,5 @@ export class List extends React.Component {
             </div>
           
         )
-    }
     
 }
