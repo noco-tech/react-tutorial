@@ -1,7 +1,7 @@
 {
   "name": "react-tutorial",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://sadainoaraisan.github.io/react-tutorial",
   
   "dependencies": {
